@@ -2,19 +2,19 @@
 
 This project analyzes monthly revenue trends of various crops to identify top performers and provide insights for strategic decisions.
 
-## 📊 Tools Used
+## Tools Used
 - Google Sheets
 - Pivot Tables
 - Line Charts
 
-## 🧠 Key Skills Demonstrated
+##  Key Skills Demonstrated
 - Data cleaning and formatting
 - Pivot table creation
 - Chart-based trend analysis
 - Business insight generation
 - Spreadsheet organization & storytelling
 
-## 📈 Insights Summary
+##  Insights Summary
 
 | Insight Area          | Observation                                                                 |
 |-----------------------|------------------------------------------------------------------------------|
@@ -24,6 +24,6 @@ This project analyzes monthly revenue trends of various crops to identify top pe
 | Monthly Growth Rate   | Revenue grew by 7–12% per month, showing scalable business potential.        |
 | Strategic Opportunity | Boost tomato marketing in Q2 and diversify with crops like spinach and maize.|
 
-## 📁 File Included
+## File Included
 - Agribusiness_Revenue_Analysis.pdf
 
